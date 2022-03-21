@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap");
+
+
+
+
+.body{
+    display: flex;
+  font-family: "PT Sans Narrow", sans-serif;
+  flex-direction: column;
+}

@@ -1,0 +1,15 @@
+.forgot-password {
+    margin-top: 0.5em;
+    text-decoration-line: none;
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 2em;
+
+}
+@media (max-width: 600px) {
+    .title{
+        margin-top: 2em;
+    }
+}
